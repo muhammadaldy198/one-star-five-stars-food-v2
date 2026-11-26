@@ -12,7 +12,7 @@ A one-sentence, one-star review of planet Earth by an alien tourist — who stil
 node main.ts
 ```
 
-Writes the single-sentence review (134 characters) to `/output/entry.txt`.
+Writes the single-sentence review (152 characters) to `/output/entry.txt`.
 
 ---
 
